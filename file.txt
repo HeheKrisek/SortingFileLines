@@ -1,0 +1,27 @@
+Przeciąż(popr) Konstr z różn param to przeciąż, Preciąż..def met o tych samych nazw
+Szabl(popr) Szabl..na impl gen algo i str nad, Szabl fun..tym sam algo i różn typ arg, Szabl pozw skr kod, Szabl klas..mech tw klas..ident pól i metod..takie same,typy pól i param mogą różne
+Szabl(popr) Jawna spec kl..def konkret typ..zamiast ogóln szabl, Szabl klas mogą param dom
+Szybkie wst i us w dowoln m umoż kont std:list
+Funkt(popr) (może byc) Zwykła f, Wskaź na f, Dowolny obj z przec oper ()
+Tabl wiel można zaimpl..kontener std:vector, boost:multi_array
+Niezmienn(popr) Pow w konstr kl, Pow wer w met kl, Gwar niezm wart atr kl, To podst war..muszą..spełn dla danej kl
+Int wsk(popr) Auto zwaln pam na kt wsk, Pozw zwr dyn alok pam z f, Elim wyc pam, To obj kl szabl
+Vector <int> v(1,2,3,4,5) popr lambda jako funktr for_each
+Poli(popr) Umożl wybr met na podst typ obj, Realiz za pom met wirt, Destr w klbaz pow..wirt aby „posp” po każdym obj, Związ z tzw póź wiąz
+Szabl(popr) Pozw na impl algo i str dan niezal od typ obj, Szabl kl..mech tw kl, iden pól i met takie same, typy pól i param różn, Szabl f to mech tw wielu f o tej sam nazw a różn liczb i typ arg, Pozw skr kod
+Kont(popr) Kont vector może przech kopie obj, Elem kont vect może być kont list, Kont vect może przech wskaź do obj, Elem kont vector może być kont vect
+Iter(popr) Uniezal algo od typ kont, Iter to obj umoż sekw por się po kont
+Kont map(popr) Zaw auto pos elem, Elem map może dowolny typ, Klucz są niepow, wart mogą powt
+Iter QT(popr) Oper odcz zaw kont szybsz przy wyk iter tylko do odcz, Kont QT można obsł za pom iter w styl STL begin, end
+W prog zdef obj ofsteramf(”abc”); string n(”abc”) popr oper f<<n;f.close()
+Sprawdz czy łańc pasuje do wzorca..za pom fun regex_match
+String n(”Ala ma kota”) które z algo boost..zmienić zainicj wart łań erase_fist, trim
+Dziedzicz(popr) Skł kl..w prot..dost met kl pot, Obj kl pot dziedziczy od obj kl baz skł z sekcji public prot, Konstr się nie dziedz
+Poli stat jako wielopost na et komp może..realiz za pom Przeciąż met, Przesłan met w kl pot, Przeciąż op
+Aby posort obj kl X w kont vect należy Zastosować algo sort(), przeciąż oper < w kl X
+Kont set STL(popr) Typ wart taki sam jak typ klucza, Zawiera auto posort elem
+Wprow dan do kont Qvector można za pom Przeciąż op =i[], Przeciąż op <<, met insert, met append
+Klasa student zaw pryw pole nazwiskoimie string..zaincj..można użyć Konstr z 1 param
+Wskaż popr deklar fun void f(int i) throw(), void f(int i) noexcept, void f(int i) throw(A,B)
+String “Ala ma kota” sposoby odczyt ostat znaku met at, met back
+Wyr reg(popr) Pozw zam tekst na inny, Walid dan z form, Pociąć tekst na fragm, Dopas tekst do wz
