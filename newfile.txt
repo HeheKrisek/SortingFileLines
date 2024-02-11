@@ -1,8 +1,0 @@
-
-Szybkie wst i us w dowoln m umoż kont std:list
-Tabl wiel można zaimpl..kontener std:vector, boost:multi_array
-Vector <int> v(1,2,3,4,5) popr lambda jako funktr for_each
-W prog zdef obj ofsteramf(”abc”); string n(”abc”) popr oper f<<n;f.close()
-Wprow dan do kont Qvector można za pom Przeciąż op =i[], Przeciąż op <<, met insert, met append
-Wskaż popr deklar fun void f(int i) throw(), void f(int i) noexcept, void f(int i) throw(A,B)
-Wyr reg(popr) Pozw zam tekst na inny, Walid dan z form, Pociąć tekst na fragm, Dopas tekst do wz
